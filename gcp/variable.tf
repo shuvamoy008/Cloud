@@ -1,5 +1,5 @@
 variable "project" {
-  default = "poc-sed-shared-jetstream-sb"
+  default = ""
 }
 
 variable "region" {
